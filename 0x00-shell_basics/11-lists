@@ -1,1 +1,2 @@
-Display a script that lists all files
+#!/bin/bash
+cd -

@@ -1,1 +1,1 @@
-Display current directory contents, including hidden files (starting with .). Use the long format.
+Delete the directory my_first_directory that is in the /tmp directory.

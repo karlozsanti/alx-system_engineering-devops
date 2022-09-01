@@ -1,1 +1,1 @@
-Tas 5. Execute
+Task6.Multiple permissions

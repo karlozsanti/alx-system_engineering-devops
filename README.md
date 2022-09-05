@@ -1,1 +1,1 @@
-Task 12. What’s new
+Task 18. Letters only please

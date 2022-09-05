@@ -1,1 +1,1 @@
-Task 6.Line #2
+Task 9.Duplicate last line

@@ -1,2 +1,2 @@
-Display lines containing the pattern “root” from the file /etc/passwd
+Create a script that displays the 10 newest files in the current directory.
 

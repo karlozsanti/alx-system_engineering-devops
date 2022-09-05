@@ -1,2 +1,2 @@
-Writing a script that diplays the last 10 lines of the /etc/passwd file.
+Write a script that displays the third line of the file iacta.
 

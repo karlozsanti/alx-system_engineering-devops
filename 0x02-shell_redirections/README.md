@@ -1,2 +1,5 @@
-Write a script that duplicates the last  line of the file iacta.The file iacta will be in the working directory
+Write a script that counts the number of directories and sub-directories in the current directory.
+
+1.The current and parent directories should not be taken into account
+2.Hidden directories should be counted
 

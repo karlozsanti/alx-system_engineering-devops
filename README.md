@@ -1,1 +1,1 @@
-Task 2. Let's display a file
+Task 4. Last 10 lines of a file

@@ -1,2 +1,2 @@
-Writing a script that diplays the content of the /etc/passwd file.
+Writing a script that diplays the last 10 lines of the /etc/passwd file.
 

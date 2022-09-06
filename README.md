@@ -1,1 +1,1 @@
-Task 8. Every addition to true knowledge is an addition to human power
+Task 15. Everyone is a proponent of strong encryption

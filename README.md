@@ -1,1 +1,1 @@
-Task 25. Acrostic
+Task 0 .<o>
